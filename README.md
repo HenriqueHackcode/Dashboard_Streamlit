@@ -18,7 +18,7 @@ Principais Frameworks usado no Projeto, segue abaixo.
 » bcrypt
 
 
-O total de bibliotecas usadas no projeto está no arquivo requirements.txt
+As bibliotecas restantes usadas no projeto, está no arquivo requirements.txt
 
 
 
