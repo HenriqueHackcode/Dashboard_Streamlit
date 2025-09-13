@@ -1,4 +1,5 @@
-Projeto web feito em Python, usando o framework Streamlit.
+» Projeto web feito em Python, usando Streamlit.
+
 O objetivo do site consiste em fazer consultas simples, de orcamentos de projetos, criando assim graficos detalhados tipo colunas, do mês, ano e valor.
 A fim de comparações de valores gastos em projetos, entrem um periodo de 2016 a 2019.
 O projeto tem seu arquivo de consulta de dados anuais no arquivo base.xlsx.
@@ -6,7 +7,6 @@ Também conta com sistema de formulário de login do usuário, integrado com ban
 
 Principais Frameworks usado no Projeto, segue abaixo.
 
-» Python
 » streamlit
 » streamlit-authenticator
 » Pandas
@@ -14,11 +14,8 @@ Principais Frameworks usado no Projeto, segue abaixo.
 » plotly
 » openpyxl
 » pillow
-» SQLAlchemy
-» bcrypt
 
-
-As bibliotecas restantes usadas no projeto, está no arquivo requirements.txt
+As bibliotecas restantes se encontram no arquivo "requirements.txt"
 
 
 
